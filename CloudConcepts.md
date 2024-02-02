@@ -1,4 +1,4 @@
-# Luento 1: Cloud Concepts
+# Luento 1: Cloud Concepts, muodostettu käsinkirjoitetuista muistiinpanoista. (Rocketbook)
 
 ## **Monisoinen arkkitehtuuri**
    - Moodle, toimii kolmen eri palvelimen kautta:
