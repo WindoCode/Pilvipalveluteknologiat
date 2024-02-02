@@ -1,0 +1,1 @@
+Sisältää muistiinpanoja liittyen Pilvipalveluteknologiat-kurssin luentoihin.
