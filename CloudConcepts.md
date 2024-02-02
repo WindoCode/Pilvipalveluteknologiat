@@ -1,22 +1,22 @@
 # Muistiinpanot kuvasta
 
-**Monisoinen arkkitehtuuri**
+## **Monisoinen arkkitehtuuri**
    - Moodle, toimii kolmen eri palvelimen kautta:
      - Tietokanta/palvelin (Asiakastiedot)
      - Sovelluspalvelin (Konfiguraatiot)
      - Verkkopalvelin (HTTP-pyynnöt)
 
-**AWS CAF = Cloud Adoption Framework**
+## **AWS CAF = Cloud Adoption Framework**
    - Mitä Huomioitavaa, kun siirrytään pilveen esimerkiksi konesaleista.
 
-**Virtualisointi**
+## **Virtualisointi**
    - Hyper-V luo raudan päälle virtuaalisen tietokoneen, virtuaalisen verkkokortin yms.
 
-**AWS-palvelut**
+## **AWS-palvelut**
 - Laskenta, Verkko, Tallennus, Tietokannat
 - Computing, Storage, Networking, Database
 
-Datakeskus infrastruktuuri:
+## Datakeskus infrastruktuuri:
 
 Cloud Platform, AWS
 Virtualization Platform, esim. Hyper-V on virtuaalialusta, joka mahdollistaa virtuaalisten tietokoneiden luomisen fyysisen laitteiston päälle.
@@ -24,13 +24,13 @@ JBODs, Just a Bunch of Disks, tallennusratkaisu, jossa useat kiintolevyt yhdiste
 Physical Network, verkkokomponentit, kuten kytkimet, reitittimet ja kaapelit, jotka mahdollistavat tietoliikenteen datakeskuksessa.
 Datacenter, fyysinen paikka, jossa tietokoneiden ja palvelimien laitteisto sijaitsee. Näiden sijainnissa huomioidaan esim. sään ja maanjäristyksen riskit.
 
-AWS Regions
+## AWS Regions
 
 Regions - EU North
 Availability zone - 3 datakeskusta esim. Ruotsissa
 Local Zone, pieni datakeskus, esim. Helsinki.
 
-**AWS Hyödyt**
+## **AWS Hyödyt**
 
 Keskittyminen omaan bisnekseen. 
 CAPEX vs. OPEX: Siirtyminen pääomakustannuksista (CAPEX) operatiivisiin kustannuksiin (OPEX). Onprem vs Cloud.
