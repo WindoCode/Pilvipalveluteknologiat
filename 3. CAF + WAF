@@ -1,0 +1,32 @@
+# Cloud Adoption Framework (AWS)
+  - Auttaa organisaatioita käyttämään pilveä.
+  - Organisaatiolle luodaan kattava Pilvistrategia
+  - Tuo tukea ja parhaat käytännöt jokaiseen Pilvistrategian vaiheeseen.
+  - Tarkoitettu organisaatioille aloittaa pilvistrategian käyttöönottoon ja suunnitteluun.
+
+# Pilven käyttöönoton vaiheet
+  - Tilanne, joka aiheuttaa siirtymisen pilveen.
+  - Pilven opiskelu ja kokeilu
+  - Pilvivalmiuden arviointi
+  - Pilvistrategia ja Roadmap
+  - Cloud Adoption Framework
+  - Cloud Landing Zone
+  - Pilvipalvelun alkukäyttö
+  - Well Architected Framework
+  - DevOps kykeneveisyys
+  - IaC = Infraa koodina kyvykkyys
+  - Pilven operoinnin kyvykkyys
+  - Pilven migraatio
+  - Pilvi-Innovointi
+
+Pilven käyttöönotto ei ole maaginen taikakirja, jolla pilveen siirtyminen tapahtuu. Jokaiselle organisaatiolle luodaan oma pilvistrategia, jossa tehdään muutoksia pienin osin osana koko strategiaa.
+
+
+  # Well Architected Framework
+    - Auttaa organisaatiota suunnittelemaan ja ottamaan käyttöön pilven sovelluksia.
+    - Suunnitteleva/Käyttöönottava lähestymistapa
+    - Organisaatio suunnittelee ja operoi pilven työtä.
+    - Korkean tason ohjausta sekä parhaat käytännön vinkit.
+    - Tarkoitettu organisaatioille jotka käyttävät jo pilveä.
+
+ ![Cloud Readiness](https://imgur.com/a/9KDqhj7)
