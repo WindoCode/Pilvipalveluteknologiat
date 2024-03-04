@@ -1,0 +1,19 @@
+Identiteetin ja käytönhallinta
+
+Osa pilviturvallisuutta
+- Resurssien muutos
+- Resurssien keskinäisten toimintojen suojaus
+
+Vaatumustenmukaisuus (Compliance
+- Sisältää hallinnon asettamien suuntoviivojen mukaisesti
+- Toteutuu eri tasoilla, sisäisesti, standardit, sopimukset, laki
+
+AWS vastaa pilven turvallisuudesta, kun asiakas vastaa turvallisuudesta PILVESSÄ.
+
+Asiakas vastaa esim.
+- datan kryptaamisesta
+- dataliikenteen turvallisuudesta
+- OS, NETWORK, FIREWALL
+- APP + IAM
+- asiakasdata
+
