@@ -1,1 +1,22 @@
+# Networking and Content Delivery
+
+## IP+CIDR
+- IP-osoite on uniikki tunniste laitteelle verkossa.
+- 32-bit osoitetta kutsutaan IPv4-osoitteeksi
+- 128-bit osoitetta kutsutaan IPv6-osoiteeksi.
+
+- IP-osoitteita voidaan luokitella ryhmiksi, joita kutsutaan CIDR-blockeiksi.
+![image](https://github.com/WindoCode/Pilvipalveluteknologiat/assets/110290723/4e779b39-718a-435b-ba9d-f750dfb7a980)
+- 192.0.2.0/24 , /24 kertoo, että ensimmäiset 24 bittiä on kiinteitä. Tässä tapauksessa "192.0.2". 256-osoitetta avoinna tälle verkolle 192.0.2.0 - 192.0.2.255.
+- Osi-mallista esim. switchit toimivat toisella tasolla, data-link-tasolla, kun taas reitittimet toimivat kolmannella tasolla, network-layer.
+
+## Amazon VPC - Virtual private cloud
+- Amazon VPC on palvelu, jonka avulla voit luoda eristettyjä verkkoja AWS-pilveen. Amazon VPC:n avulla voit määritellä mukautettuja turvallisuussääntöjä, jotka sallivat vain tietyntyyppisen liikenteen pääsyn esim. verkkosivustollesi.
+- VPC voi jakaa eri aliverkkoihin, jotka voi jakaa omille ip-osotteiden väleille. Aliverkot joko julkisia (pääsee nettiin) tai yksityisiä (ei nettiä).
+
+## Amazon Route 53
+- Amazonin tarjoama, skaalautuva ja saavutettava DNS-palvelu.
+    - Toimii IPv4+6-osoitteilla
+- 
+
 
