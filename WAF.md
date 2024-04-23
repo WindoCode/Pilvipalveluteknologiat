@@ -1,4 +1,4 @@
-- Azure ja AWS tarjoavat Well-Architected Framework (WAF) -mallin, joka auttaa yrityksiä suunnittelemaan, kehittämään ja ylläpitämään pilvipohjaisia sovelluksia.
+## Azure ja AWS tarjoavat Well-Architected Framework (WAF) -mallin, joka auttaa yrityksiä suunnittelemaan, kehittämään ja ylläpitämään pilvipohjaisia sovelluksia.
 
 -  WAF koostuu parhaista käytännöistä ja ohjeista, joiden avulla organisaatiot voivat:
   - Nopeuttaa sovellusten kehitystä ja käyttöönottoa (DevOps-tavoite)
